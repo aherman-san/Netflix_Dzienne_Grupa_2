@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 5,
+    "Name": "Akcja"
+  },
+  {
+    "Id": 6,
+    "Name": "Dla dzieci"
+  },
+  {
+    "Id": 4,
+    "Name": "Dramat"
+  },
+  {
+    "Id": 3,
+    "Name": "Horror"
+  },
+  {
+    "Id": 1,
+    "Name": "Komedia"
+  },
+  {
+    "Id": 2,
+    "Name": "Sci-Fi"
+  },
+  {
+    "Id": 7,
+    "Name": "Thriller"
+  }
+]

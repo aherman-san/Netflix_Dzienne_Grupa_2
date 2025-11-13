@@ -1,0 +1,1606 @@
+[
+  {
+    "Id": 1,
+    "CategoryId": 4,
+    "Title": "Dunkierka",
+    "Description": "Wojska alianckie zostają przyparte do morza pod Dunkierką. Bitwa staje się sprawdzianem dla młodych żołnierzy, pilota RAF-u oraz załogi cywilnej łodzi płynącej przez Kanał La Manche.",
+    "LenghtInMinutes": 106,
+    "ReleaseYear": 2017,
+    "Rating": 7,
+    "Cast": [
+      "Fionn Whitehead",
+      "Tom Glynn-Carney",
+      "Jack Lowden",
+      "Harry Styles",
+      "Mark Rylance"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=ed6IhUUN-gI"
+  },
+  {
+    "Id": 2,
+    "CategoryId": 1,
+    "Title": "Nietykalni",
+    "Description": "Sparaliżowany milioner zatrudnia do opieki młodego chłopaka z przedmieścia, który właśnie wyszedł z więzienia.",
+    "LenghtInMinutes": 112,
+    "ReleaseYear": 2011,
+    "Rating": 9,
+    "Cast": [
+      "François Cluzet",
+      "Omar Sy",
+      "Anne Le Ny"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=34WIbmXkewU"
+  },
+  {
+    "Id": 3,
+    "CategoryId": 2,
+    "Title": "Interstellar",
+    "Description": "Gdy życie na Ziemi dobiega końca, grupa odkrywców wyrusza w najważniejszą misję w dziejach ludzkości. Ich celem jest znalezienie nowego domu dla ludzi wśród gwiazd.",
+    "LenghtInMinutes": 169,
+    "ReleaseYear": 2014,
+    "Rating": 8,
+    "Cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Michael Caine"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+  },
+  {
+    "Id": 4,
+    "CategoryId": 3,
+    "Title": "Obecność",
+    "Description": "Para badaczy zjawisk paranormalnych zostaje wezwana na odludną farmę, gdzie terroryzuje ich potężny demon.",
+    "LenghtInMinutes": 112,
+    "ReleaseYear": 2013,
+    "Rating": 7,
+    "Cast": [
+      "Vera Farmiga",
+      "Patrick Wilson",
+      "Lili Taylor"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=k10ETZ41q5o"
+  },
+  {
+    "Id": 5,
+    "CategoryId": 5,
+    "Title": "Mad Max: Na drodze gniewu",
+    "Description": "Samotnik Mad Max przyłącza się do grupy uciekającej przez pustkowia w pojeździe bojowym prowadzonym przez Imperatorkę Furiosę.",
+    "LenghtInMinutes": 120,
+    "ReleaseYear": 2015,
+    "Rating": 8,
+    "Cast": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=hEJnMQG9ev8"
+  },
+  {
+    "Id": 6,
+    "CategoryId": 6,
+    "Title": "Król Lew",
+    "Description": "Młody lew Simba musi odzyskać swoje miejsce w kręgu życia po tragicznej śmierci ojca, Mufasy.",
+    "LenghtInMinutes": 88,
+    "ReleaseYear": 1994,
+    "Rating": 8,
+    "Cast": [
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl Jones"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=4sj1MT05wmM"
+  },
+  {
+    "Id": 7,
+    "CategoryId": 7,
+    "Title": "Siedem",
+    "Description": "Dwóch detektywów ściga seryjnego mordercę, który wybiera swoje ofiary na podstawie siedmiu grzechów głównych.",
+    "LenghtInMinutes": 127,
+    "ReleaseYear": 1995,
+    "Rating": 8,
+    "Cast": [
+      "Brad Pitt",
+      "Morgan Freeman",
+      "Gwyneth Paltrow",
+      "Kevin Spacey"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=znmZoVkCjpI"
+  },
+  {
+    "Id": 8,
+    "CategoryId": 1,
+    "Title": "Forrest Gump",
+    "Description": "Historia życia prostodusznego Forresta Gumpa, który mimo niskiego IQ staje się uczestnikiem i świadkiem kluczowych wydarzeń w historii USA.",
+    "LenghtInMinutes": 142,
+    "ReleaseYear": 1994,
+    "Rating": 9,
+    "Cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=bLvqoHBptjg"
+  },
+  {
+    "Id": 9,
+    "CategoryId": 4,
+    "Title": "Skazani na Shawshank",
+    "Description": "Adaptacja opowiadania Stephena Kinga. Niesłusznie skazany bankier spędza w więzieniu niemal dwie dekady, planując ucieczkę.",
+    "LenghtInMinutes": 142,
+    "ReleaseYear": 1994,
+    "Rating": 9,
+    "Cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=6hB3S9bIaco"
+  },
+  {
+    "Id": 10,
+    "CategoryId": 2,
+    "Title": "Matrix",
+    "Description": "Haker komputerowy Neo odkrywa, że świat, w którym żyje, jest jedynie symulacją stworzoną przez maszyny.",
+    "LenghtInMinutes": 136,
+    "ReleaseYear": 1999,
+    "Rating": 8,
+    "Cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=vKQi3bBA1y8"
+  },
+  {
+    "Id": 11,
+    "CategoryId": 5,
+    "Title": "Incepcja",
+    "Description": "Złodziej specjalizujący się w wykradaniu informacji ze snów otrzymuje zadanie niemożliwe: zaszczepienie myśli w umyśle celu.",
+    "LenghtInMinutes": 148,
+    "ReleaseYear": 2010,
+    "Rating": 8,
+    "Cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+  },
+  {
+    "Id": 12,
+    "CategoryId": 7,
+    "Title": "Milczenie owiec",
+    "Description": "Młoda agentka FBI musi zdobyć zaufanie genialnego kanibala-mordercy, aby pomógł jej złapać innego seryjnego zabójcę.",
+    "LenghtInMinutes": 118,
+    "ReleaseYear": 1991,
+    "Rating": 8,
+    "Cast": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Scott Glenn"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=W6Mm8Sbe__o"
+  },
+  {
+    "Id": 13,
+    "CategoryId": 6,
+    "Title": "Toy Story",
+    "Description": "Ulubiona zabawka chłopca, kowboj Chudy, czuje się zagrożony, gdy pojawia się nowa, kosmiczna figurka - Buzz Astral.",
+    "LenghtInMinutes": 81,
+    "ReleaseYear": 1995,
+    "Rating": 8,
+    "Cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=KYz2wyBy3kc"
+  },
+  {
+    "Id": 14,
+    "CategoryId": 3,
+    "Title": "Lśnienie",
+    "Description": "Pisarz Jack Torrance przyjmuje posadę zimowego stróża w odciętym od świata hotelu Overlook, gdzie powoli popada w obłęd.",
+    "LenghtInMinutes": 146,
+    "ReleaseYear": 1980,
+    "Rating": 8,
+    "Cast": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=S014oGZiSdI"
+  },
+  {
+    "Id": 15,
+    "CategoryId": 1,
+    "Title": "Pulp Fiction",
+    "Description": "Losy pary płatnych zabójców, żony gangstera, boksera i pary rabusiów splatają się w serii nieoczekiwanych zdarzeń.",
+    "LenghtInMinutes": 154,
+    "ReleaseYear": 1994,
+    "Rating": 9,
+    "Cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=s7EdQ4FqbhY"
+  },
+  {
+    "Id": 16,
+    "CategoryId": 4,
+    "Title": "Ojciec chrzestny",
+    "Description": "Opowieść o starzejącym się patriarsze mafijnej rodziny, który przekazuje kontrolę nad swoim imperium niechętnemu synowi.",
+    "LenghtInMinutes": 175,
+    "ReleaseYear": 1972,
+    "Rating": 9,
+    "Cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=sY1S34973zA"
+  },
+  {
+    "Id": 17,
+    "CategoryId": 2,
+    "Title": "Łowca androidów",
+    "Description": "W dystopijnym Los Angeles 2019 roku, emerytowany łowca androidów musi wytropić grupę zbiegłych replikantów.",
+    "LenghtInMinutes": 117,
+    "ReleaseYear": 1982,
+    "Rating": 8,
+    "Cast": [
+      "Harrison Ford",
+      "Rutger Hauer",
+      "Sean Young"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=eogpIG53Cis"
+  },
+  {
+    "Id": 18,
+    "CategoryId": 5,
+    "Title": "Mroczny Rycerz",
+    "Description": "Batman musi zmierzyć się ze swoim największym wrogiem, Jokerem, który sieje chaos i anarchię w Gotham City.",
+    "LenghtInMinutes": 152,
+    "ReleaseYear": 2008,
+    "Rating": 9,
+    "Cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=EXeTwQWrcwY"
+  },
+  {
+    "Id": 19,
+    "CategoryId": 7,
+    "Title": "Wyspa tajemnic",
+    "Description": "Szeryf federalny Teddy Daniels przybywa do szpitala psychiatrycznego dla groźnych przestępców na wyspie, aby zbadać sprawę zniknięcia jednej z pacjentek.",
+    "LenghtInMinutes": 138,
+    "ReleaseYear": 2010,
+    "Rating": 8,
+    "Cast": [
+      "Leonardo DiCaprio",
+      "Mark Ruffalo",
+      "Ben Kingsley"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=5iaYLCiq5RM"
+  },
+  {
+    "Id": 20,
+    "CategoryId": 6,
+    "Title": "Spirited Away: W krainie bogów",
+    "Description": "Dziesięcioletnia Chihiro przenosi się do magicznego świata zamieszkanego przez duchy, potwory i bogów, gdzie musi znaleźć sposób na ocalenie rodziców.",
+    "LenghtInMinutes": 125,
+    "ReleaseYear": 2001,
+    "Rating": 8,
+    "Cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=ByXuk9QqQkk"
+  },
+  {
+    "Id": 21,
+    "CategoryId": 3,
+    "Title": "Dziedzictwo. Hereditary",
+    "Description": "Po śmierci babci, rodzina Grahamów zaczyna odkrywać mroczne i przerażające sekrety swojego pochodzenia.",
+    "LenghtInMinutes": 127,
+    "ReleaseYear": 2018,
+    "Rating": 7,
+    "Cast": [
+      "Toni Collette",
+      "Alex Wolff",
+      "Milly Shapiro"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=V6wWKNij_1M"
+  },
+  {
+    "Id": 22,
+    "CategoryId": 1,
+    "Title": "Grand Budapest Hotel",
+    "Description": "Historia legendarnego konsjerża Gustava H. i jego młodego protegowanego, Zero Moustafy, w słynnym hotelu w fikcyjnym europejskim kraju.",
+    "LenghtInMinutes": 100,
+    "ReleaseYear": 2014,
+    "Rating": 8,
+    "Cast": [
+      "Ralph Fiennes",
+      "Tony Revolori",
+      "F. Murray Abraham"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=1Fg5iWmQjwk"
+  },
+  {
+    "Id": 23,
+    "CategoryId": 4,
+    "Title": "Green Book",
+    "Description": "Prawdziwa historia niezwykłej przyjaźni między wybitnym czarnoskórym pianistą a jego włosko-amerykańskim kierowcą i ochroniarzem podczas trasy koncertowej po południu USA w latach 60.",
+    "LenghtInMinutes": 130,
+    "ReleaseYear": 2018,
+    "Rating": 8,
+    "Cast": [
+      "Viggo Mortensen",
+      "Mahershala Ali",
+      "Linda Cardellini"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=QkZxoko_HC0"
+  },
+  {
+    "Id": 24,
+    "CategoryId": 2,
+    "Title": "Blade Runner 2049",
+    "Description": "Nowy łowca androidów, oficer K, odkrywa długo skrywaną tajemnicę, która może pogrążyć resztki społeczeństwa w chaosie.",
+    "LenghtInMinutes": 163,
+    "ReleaseYear": 2017,
+    "Rating": 8,
+    "Cast": [
+      "Ryan Gosling",
+      "Harrison Ford",
+      "Ana de Armas"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=gCcx85zbxz4"
+  },
+  {
+    "Id": 25,
+    "CategoryId": 5,
+    "Title": "Gladiator",
+    "Description": "Rzymski generał Maximus zostaje zdradzony i skazany na niewolę. Staje się gladiatorem, by pomścić śmierć rodziny i cesarza.",
+    "LenghtInMinutes": 155,
+    "ReleaseYear": 2000,
+    "Rating": 8,
+    "Cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=owK1qxDselE"
+  },
+  {
+    "Id": 26,
+    "CategoryId": 7,
+    "Title": "Labirynt",
+    "Description": "Kiedy córka Kellera Dovera i jej przyjaciółka znikają, zdesperowany ojciec bierze sprawy w swoje ręce, gdy policja zawodzi.",
+    "LenghtInMinutes": 153,
+    "ReleaseYear": 2013,
+    "Rating": 8,
+    "Cast": [
+      "Hugh Jackman",
+      "Jake Gyllenhaal",
+      "Viola Davis"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=bp7_fNnUUoE"
+  },
+  {
+    "Id": 27,
+    "CategoryId": 6,
+    "Title": "Gdzie jest Nemo?",
+    "Description": "Nadopiekuńczy błazenek Marlin wyrusza w niebezpieczną podróż, aby odnaleźć swojego syna Nemo, który został porwany z rafy koralowej.",
+    "LenghtInMinutes": 100,
+    "ReleaseYear": 2003,
+    "Rating": 8,
+    "Cast": [
+      "Albert Brooks",
+      "Ellen DeGeneres",
+      "Alexander Gould"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=wZdpNglLbt8"
+  },
+  {
+    "Id": 28,
+    "CategoryId": 3,
+    "Title": "Ciche miejsce",
+    "Description": "Rodzina musi żyć w absolutnej ciszy, aby uniknąć tajemniczych stworzeń, które polują, kierując się dźwiękiem.",
+    "LenghtInMinutes": 90,
+    "ReleaseYear": 2018,
+    "Rating": 7,
+    "Cast": [
+      "Emily Blunt",
+      "John Krasinski",
+      "Millicent Simmonds"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=WR7cc5t7tv8"
+  },
+  {
+    "Id": 29,
+    "CategoryId": 1,
+    "Title": "Kac Vegas",
+    "Description": "Trzech przyjaciół budzi się po wieczorze kawalerskim w Las Vegas bez pamięci o poprzedniej nocy i bez pana młodego.",
+    "LenghtInMinutes": 100,
+    "ReleaseYear": 2009,
+    "Rating": 7,
+    "Cast": [
+      "Bradley Cooper",
+      "Ed Helms",
+      "Zach Galifianakis"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=TZc39W684gI"
+  },
+  {
+    "Id": 30,
+    "CategoryId": 4,
+    "Title": "Parasite",
+    "Description": "Biedna, ale sprytna rodzina Kimów infiltruje życie bogatej rodziny Parków, co prowadzi do nieoczekiwanych i tragicznych konsekwencji.",
+    "LenghtInMinutes": 132,
+    "ReleaseYear": 2019,
+    "Rating": 8,
+    "Cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=5xH0HfJHsaY"
+  },
+  {
+    "Id": 31,
+    "CategoryId": 2,
+    "Title": "Diuna",
+    "Description": "Paul Atreides, młody szlachcic obdarzony niezwykłymi zdolnościami, musi udać się na najbardziej niebezpieczną planetę we wszechświecie, aby zapewnić przyszłość swojej rodzinie i ludowi.",
+    "LenghtInMinutes": 155,
+    "ReleaseYear": 2021,
+    "Rating": 8,
+    "Cast": [
+      "Timothée Chalamet",
+      "Rebecca Ferguson",
+      "Oscar Isaac"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=n9xhJrPXop4"
+  },
+  {
+    "Id": 32,
+    "CategoryId": 5,
+    "Title": "John Wick",
+    "Description": "Emerytowany płatny zabójca wraca do gry, by zemścić się na gangsterach, którzy odebrali mu wszystko, co kochał.",
+    "LenghtInMinutes": 101,
+    "ReleaseYear": 2014,
+    "Rating": 7,
+    "Cast": [
+      "Keanu Reeves",
+      "Michael Nyqvist",
+      "Alfie Allen"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=C0BMx-qxsP4"
+  },
+  {
+    "Id": 33,
+    "CategoryId": 7,
+    "Title": "Zaginiona dziewczyna",
+    "Description": "W piątą rocznicę ślubu Nick Dunne zgłasza zaginięcie żony. Pod presją policji i mediów, obraz idealnego związku zaczyna pękać.",
+    "LenghtInMinutes": 149,
+    "ReleaseYear": 2014,
+    "Rating": 8,
+    "Cast": [
+      "Ben Affleck",
+      "Rosamund Pike",
+      "Neil Patrick Harris"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=2-_-1nJf8Vg"
+  },
+  {
+    "Id": 34,
+    "CategoryId": 6,
+    "Title": "Iniemamocni",
+    "Description": "Rodzina superbohaterów ukrywająca swoje moce zostaje zmuszona do powrotu do akcji, aby ocalić świat przed nowym zagrożeniem.",
+    "LenghtInMinutes": 115,
+    "ReleaseYear": 2004,
+    "Rating": 8,
+    "Cast": [
+      "Craig T. Nelson",
+      "Holly Hunter",
+      "Samuel L. Jackson"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=eZbzbC9285I"
+  },
+  {
+    "Id": 35,
+    "CategoryId": 3,
+    "Title": "Uciekaj!",
+    "Description": "Młody Afroamerykanin jedzie poznać rodziców swojej białej dziewczyny. Wizyta szybko przybiera nieoczekiwany i przerażający obrót.",
+    "LenghtInMinutes": 104,
+    "ReleaseYear": 2017,
+    "Rating": 7,
+    "Cast": [
+      "Daniel Kaluuya",
+      "Allison Williams",
+      "Bradley Whitford"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=DzfpyUB60YY"
+  },
+  {
+    "Id": 36,
+    "CategoryId": 1,
+    "Title": "Dzień świra",
+    "Description": "Satyryczny portret Adasia Miauczyńskiego, sfrustrowanego nauczyciela polskiego, który zmaga się z absurdami codzienności.",
+    "LenghtInMinutes": 93,
+    "ReleaseYear": 2002,
+    "Rating": 8,
+    "Cast": [
+      "Marek Kondrat",
+      "Janina Traczykówna",
+      "Andrzej Grabowski"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=tG35v6yS4oI"
+  },
+  {
+    "Id": 37,
+    "CategoryId": 4,
+    "Title": "Whiplash",
+    "Description": "Młody i ambitny perkusista jazzowy trafia pod skrzydła bezwzględnego nauczyciela, który nie cofnie się przed niczym, by wydobyć z niego geniusz.",
+    "LenghtInMinutes": 107,
+    "ReleaseYear": 2014,
+    "Rating": 8,
+    "Cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=7d_jQycdQGo"
+  },
+  {
+    "Id": 38,
+    "CategoryId": 2,
+    "Title": "Ex Machina",
+    "Description": "Młody programista zostaje zaproszony do posiadłości genialnego wynalazcy, aby przeprowadzić test Turinga na zaawansowanej sztucznej inteligencji w ciele robota.",
+    "LenghtInMinutes": 108,
+    "ReleaseYear": 2014,
+    "Rating": 7,
+    "Cast": [
+      "Domhnall Gleeson",
+      "Alicia Vikander",
+      "Oscar Isaac"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=gyKqU-7G1hE"
+  },
+  {
+    "Id": 39,
+    "CategoryId": 5,
+    "Title": "Szeregowiec Ryan",
+    "Description": "Podczas inwazji na Normandię grupa żołnierzy otrzymuje misję odnalezienia i sprowadzenia do domu szeregowca Ryana, którego trzej bracia zginęli na wojnie.",
+    "LenghtInMinutes": 169,
+    "ReleaseYear": 1998,
+    "Rating": 8,
+    "Cast": [
+      "Tom Hanks",
+      "Matt Damon",
+      "Tom Sizemore"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=zwhP5b4IJD0"
+  },
+  {
+    "Id": 40,
+    "CategoryId": 7,
+    "Title": "Podziemny krąg",
+    "Description": "Cierpiący na bezsenność pracownik biurowy i charyzmatyczny sprzedawca mydła zakładają tajny klub, w którym mężczyźni mogą walczyć na gołe pięści.",
+    "LenghtInMinutes": 139,
+    "ReleaseYear": 1999,
+    "Rating": 8,
+    "Cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=qtRKdVHc-cE"
+  },
+  {
+    "Id": 41,
+    "CategoryId": 6,
+    "Title": "Coco",
+    "Description": "Młody Miguel, zafascynowany muzyką, wyrusza w niezwykłą podróż do Krainy Umarłych, aby odkryć tajemnicę swojej rodziny.",
+    "LenghtInMinutes": 105,
+    "ReleaseYear": 2017,
+    "Rating": 8,
+    "Cast": [
+      "Anthony Gonzalez",
+      "Gael García Bernal",
+      "Benjamin Bratt"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=Ga6RYejo6Hk"
+  },
+  {
+    "Id": 42,
+    "CategoryId": 3,
+    "Title": "Obcy - 8. pasażer Nostromo",
+    "Description": "Załoga statku kosmicznego Nostromo odbiera sygnał SOS z nieznanej planety. Na miejscu odkrywają śmiertelnie niebezpieczną formę życia.",
+    "LenghtInMinutes": 117,
+    "ReleaseYear": 1979,
+    "Rating": 8,
+    "Cast": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "John Hurt"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=jQ5lPt9edzQ"
+  },
+  {
+    "Id": 43,
+    "CategoryId": 1,
+    "Title": "Jojo Rabbit",
+    "Description": "Samotny niemiecki chłopiec, którego wyimaginowanym przyjacielem jest Adolf Hitler, odkrywa, że jego matka ukrywa na strychu żydowską dziewczynę.",
+    "LenghtInMinutes": 108,
+    "ReleaseYear": 2019,
+    "Rating": 8,
+    "Cast": [
+      "Roman Griffin Davis",
+      "Thomasin McKenzie",
+      "Scarlett Johansson"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=tL4McUzXfFI"
+  },
+  {
+    "Id": 44,
+    "CategoryId": 4,
+    "Title": "La La Land",
+    "Description": "Pianista jazzowy i początkująca aktorka zakochują się w sobie, próbując jednocześnie realizować swoje marzenia w Los Angeles.",
+    "LenghtInMinutes": 128,
+    "ReleaseYear": 2016,
+    "Rating": 8,
+    "Cast": [
+      "Ryan Gosling",
+      "Emma Stone",
+      "John Legend"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=0pdqf4P9MB8"
+  },
+  {
+    "Id": 45,
+    "CategoryId": 2,
+    "Title": "Gwiezdne wojny: Nowa nadzieja",
+    "Description": "Luke Skywalker przyłącza się do Rebelii, aby ocalić księżniczkę Leię z rąk Dartha Vadera i zniszczyć potężną stację bojową Imperium, Gwiazdę Śmierci.",
+    "LenghtInMinutes": 121,
+    "ReleaseYear": 1977,
+    "Rating": 8,
+    "Cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=vZ734NWnAHA"
+  },
+  {
+    "Id": 46,
+    "CategoryId": 5,
+    "Title": "Kill Bill",
+    "Description": "Panna Młoda budzi się ze śpiączki i postanawia zemścić się na członkach elitarnego oddziału zabójców, który próbował ją zabić.",
+    "LenghtInMinutes": 111,
+    "ReleaseYear": 2003,
+    "Rating": 8,
+    "Cast": [
+      "Uma Thurman",
+      "Lucy Liu",
+      "Daryl Hannah"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=7kSuas6mRpk"
+  },
+  {
+    "Id": 47,
+    "CategoryId": 7,
+    "Title": "Oldboy",
+    "Description": "Mężczyzna zostaje porwany i uwięziony na 15 lat bez wyjaśnienia. Po uwolnieniu ma tylko pięć dni, by odnaleźć swojego oprawcę.",
+    "LenghtInMinutes": 120,
+    "ReleaseYear": 2003,
+    "Rating": 8,
+    "Cast": [
+      "Choi Min-sik",
+      "Yoo Ji-tae",
+      "Kang Hye-jung"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=2HkjrJ6IK5E"
+  },
+  {
+    "Id": 48,
+    "CategoryId": 6,
+    "Title": "WALL-E",
+    "Description": "W dalekiej przyszłości mały robot sprzątający Ziemię, WALL-E, zakochuje się w robocie EVE i wyrusza za nią w kosmiczną podróż, która odmieni los ludzkości.",
+    "LenghtInMinutes": 98,
+    "ReleaseYear": 2008,
+    "Rating": 8,
+    "Cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=alIq_wG9FNk"
+  },
+  {
+    "Id": 49,
+    "CategoryId": 3,
+    "Title": "Psychoza",
+    "Description": "Sekretarka ucieka z pieniędzmi firmy i zatrzymuje się w odległym motelu prowadzonym przez Normana Batesa, młodego mężczyznę zdominowanego przez matkę.",
+    "LenghtInMinutes": 109,
+    "ReleaseYear": 1960,
+    "Rating": 8,
+    "Cast": [
+      "Anthony Perkins",
+      "Janet Leigh",
+      "Vera Miles"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=Wz719b9QUqY"
+  },
+  {
+    "Id": 50,
+    "CategoryId": 1,
+    "Title": "Żywot Briana",
+    "Description": "Satyra na religię i fanatyzm, opowiadająca historię Briana Cohena, młodego Żyda, który przez pomyłkę zostaje wzięty za Mesjasza.",
+    "LenghtInMinutes": 94,
+    "ReleaseYear": 1979,
+    "Rating": 8,
+    "Cast": [
+      "Graham Chapman",
+      "John Cleese",
+      "Michael Palin"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=TKPmGjVFbrY"
+  },
+  {
+    "Id": 51,
+    "CategoryId": 4,
+    "Title": "Lista Schindlera",
+    "Description": "Prawdziwa historia Oskara Schindlera, niemieckiego przemysłowca, który podczas II wojny światowej ocalił ponad tysiąc Żydów, zatrudniając ich w swojej fabryce.",
+    "LenghtInMinutes": 195,
+    "ReleaseYear": 1993,
+    "Rating": 9,
+    "Cast": [
+      "Liam Neeson",
+      "Ben Kingsley",
+      "Ralph Fiennes"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=gG22XNhtnoY"
+  },
+  {
+    "Id": 52,
+    "CategoryId": 2,
+    "Title": "2001: Odyseja kosmiczna",
+    "Description": "Epicka podróż ludzkości od prehistorii do podboju kosmosu, inspirowana odkryciem tajemniczego monolitu.",
+    "LenghtInMinutes": 149,
+    "ReleaseYear": 1968,
+    "Rating": 8,
+    "Cast": [
+      "Keir Dullea",
+      "Gary Lockwood",
+      "William Sylvester"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=oR_e9y-bka0"
+  },
+  {
+    "Id": 53,
+    "CategoryId": 5,
+    "Title": "Terminator 2: Dzień sądu",
+    "Description": "Dwa terminatory z przyszłości przybywają do teraźniejszości: jeden, by zabić młodego Johna Connora, drugi, by go chronić.",
+    "LenghtInMinutes": 137,
+    "ReleaseYear": 1991,
+    "Rating": 8,
+    "Cast": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Edward Furlong"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=CRRlbK5w8AE"
+  },
+  {
+    "Id": 54,
+    "CategoryId": 7,
+    "Title": "Szepty",
+    "Description": "Psycholog dziecięcy próbuje pomóc chłopcu, który twierdzi, że widzi zmarłych. Praca z pacjentem prowadzi go do szokującego odkrycia.",
+    "LenghtInMinutes": 107,
+    "ReleaseYear": 1999,
+    "Rating": 8,
+    "Cast": [
+      "Bruce Willis",
+      "Haley Joel Osment",
+      "Toni Collette"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=3-Xq_Zz3nPA"
+  },
+  {
+    "Id": 55,
+    "CategoryId": 6,
+    "Title": "Odlot",
+    "Description": "Starszy wdowiec Carl Fredricksen spełnia marzenie życia i wyrusza w podróż do Ameryki Południowej, przywiązując do swojego domu tysiące balonów. Niespodziewanie towarzyszy mu mały skaut.",
+    "LenghtInMinutes": 96,
+    "ReleaseYear": 2009,
+    "Rating": 8,
+    "Cast": [
+      "Edward Asner",
+      "Jordan Nagai",
+      "Christopher Plummer"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=pkqzFUhGPJg"
+  },
+  {
+    "Id": 56,
+    "CategoryId": 3,
+    "Title": "Egzorcysta",
+    "Description": "Aktorka zauważa drastyczne zmiany w zachowaniu swojej 12-letniej córki. Zdesperowana, zwraca się o pomoc do dwóch księży, by odprawili egzorcyzmy.",
+    "LenghtInMinutes": 122,
+    "ReleaseYear": 1973,
+    "Rating": 8,
+    "Cast": [
+      "Ellen Burstyn",
+      "Max von Sydow",
+      "Linda Blair"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=YDGw1MTEe9k"
+  },
+  {
+    "Id": 57,
+    "CategoryId": 1,
+    "Title": "Truman Show",
+    "Description": "Mężczyzna odkrywa, że całe jego życie jest starannie wyreżyserowanym reality show, a on sam jest jego nieświadomą gwiazdą.",
+    "LenghtInMinutes": 103,
+    "ReleaseYear": 1998,
+    "Rating": 8,
+    "Cast": [
+      "Jim Carrey",
+      "Laura Linney",
+      "Ed Harris"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=dlnmQbPGvUU"
+  },
+  {
+    "Id": 58,
+    "CategoryId": 4,
+    "Title": "Piękny umysł",
+    "Description": "Prawdziwa historia Johna Nasha, genialnego matematyka, którego karierę przerywa schizofrenia paranoidalna.",
+    "LenghtInMinutes": 135,
+    "ReleaseYear": 2001,
+    "Rating": 8,
+    "Cast": [
+      "Russell Crowe",
+      "Ed Harris",
+      "Jennifer Connelly"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=WFJgUm7iOKw"
+  },
+  {
+    "Id": 59,
+    "CategoryId": 2,
+    "Title": "Nowy początek",
+    "Description": "Lingwistka zostaje zatrudniona przez wojsko, aby nawiązać kontakt z obcymi, którzy wylądowali w różnych miejscach na Ziemi.",
+    "LenghtInMinutes": 116,
+    "ReleaseYear": 2016,
+    "Rating": 8,
+    "Cast": [
+      "Amy Adams",
+      "Jeremy Renner",
+      "Forest Whitaker"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=tFMo3UJ4B4g"
+  },
+  {
+    "Id": 60,
+    "CategoryId": 5,
+    "Title": "Avengers: Wojna bez granic",
+    "Description": "Avengersi i ich sojusznicy muszą być gotowi poświęcić wszystko, aby pokonać potężnego Thanosa, zanim jego plan zniszczenia położy kres wszechświatu.",
+    "LenghtInMinutes": 149,
+    "ReleaseYear": 2018,
+    "Rating": 8,
+    "Cast": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=6ZfuNTqbHE8"
+  },
+  {
+    "Id": 61,
+    "CategoryId": 7,
+    "Title": "Zodiak",
+    "Description": "Film oparty na faktach. Reporterzy i policjanci z San Francisco próbują wytropić seryjnego mordercę znanego jako Zodiak.",
+    "LenghtInMinutes": 157,
+    "ReleaseYear": 2007,
+    "Rating": 7,
+    "Cast": [
+      "Jake Gyllenhaal",
+      "Mark Ruffalo",
+      "Robert Downey Jr."
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=yNncHPl1UXg"
+  },
+  {
+    "Id": 62,
+    "CategoryId": 6,
+    "Title": "Jak wytresować smoka",
+    "Description": "Młody Wiking Czkawka, który nie pasuje do swojego plemienia łowców smoków, zaprzyjaźnia się z młodym smokiem i uczy się, że te stworzenia mogą być inne, niż sądzono.",
+    "LenghtInMinutes": 98,
+    "ReleaseYear": 2010,
+    "Rating": 8,
+    "Cast": [
+      "Jay Baruchel",
+      "Gerard Butler",
+      "Craig Ferguson"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=oKiYuIsPxYk"
+  },
+  {
+    "Id": 63,
+    "CategoryId": 3,
+    "Title": "Coś",
+    "Description": "Grupa naukowców na odizolowanej stacji badawczej na Antarktydzie odkrywa obcą formę życia, która potrafi idealnie imitować inne organizmy.",
+    "LenghtInMinutes": 109,
+    "ReleaseYear": 1982,
+    "Rating": 8,
+    "Cast": [
+      "Kurt Russell",
+      "Wilford Brimley",
+      "Keith David"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=5ftmr17M-a4"
+  },
+  {
+    "Id": 64,
+    "CategoryId": 1,
+    "Title": "Big Lebowski",
+    "Description": "Jeff 'Koleś' Lebowski zostaje wciągnięty w skomplikowaną intrygę porwania, gdy zostaje pomylony z milionerem o tym samym nazwisku.",
+    "LenghtInMinutes": 117,
+    "ReleaseYear": 1998,
+    "Rating": 8,
+    "Cast": [
+      "Jeff Bridges",
+      "John Goodman",
+      "Julianne Moore"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=cd-go0oBF4Y"
+  },
+  {
+    "Id": 65,
+    "CategoryId": 4,
+    "Title": "Buntownik z wyboru",
+    "Description": "Genialny, ale zbuntowany młody woźny z MIT nawiązuje relację z terapeutą, który pomaga mu uporać się z przeszłością i wykorzystać swój potencjał.",
+    "LenghtInMinutes": 126,
+    "ReleaseYear": 1997,
+    "Rating": 8,
+    "Cast": [
+      "Matt Damon",
+      "Robin Williams",
+      "Ben Affleck"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=paAfKY_AZ3Y"
+  },
+  {
+    "Id": 66,
+    "CategoryId": 2,
+    "Title": "Dystrykt 9",
+    "Description": "Obcy, którzy wylądowali na Ziemi, zostają umieszczeni w slumsach w RPA. Pracownik rządowy zarażony ich biotechnologią staje się najbardziej poszukiwaną osobą na świecie.",
+    "LenghtInMinutes": 112,
+    "ReleaseYear": 2009,
+    "Rating": 7,
+    "Cast": [
+      "Sharlto Copley",
+      "Jason Cope",
+      "Nathalie Boltt"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=DyLUwOcR5pk"
+  },
+  {
+    "Id": 67,
+    "CategoryId": 5,
+    "Title": "Leon zawodowiec",
+    "Description": "Płatny zabójca niechętnie przygarnia 12-letnią dziewczynkę po tym, jak jej rodzina zostaje zamordowana przez skorumpowanego agenta DEA.",
+    "LenghtInMinutes": 110,
+    "ReleaseYear": 1994,
+    "Rating": 8,
+    "Cast": [
+      "Jean Reno",
+      "Gary Oldman",
+      "Natalie Portman"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=jawRupM-P8E"
+  },
+  {
+    "Id": 68,
+    "CategoryId": 7,
+    "Title": "Podejrzani",
+    "Description": "Jedyny ocalały świadek masakry na statku opowiada skomplikowaną historię, która doprowadziła do tragedii, krążącą wokół mitycznego przestępcy, Keysera Söze.",
+    "LenghtInMinutes": 106,
+    "ReleaseYear": 1995,
+    "Rating": 8,
+    "Cast": [
+      "Kevin Spacey",
+      "Gabriel Byrne",
+      "Chazz Palminteri"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=9_kKqdc-E-Y"
+  },
+  {
+    "Id": 69,
+    "CategoryId": 6,
+    "Title": "Ratatuj",
+    "Description": "Szczur Remy, obdarzony niezwykłym węchem i smakiem, marzy o zostaniu szefem kuchni w Paryżu. Nawiązuje współpracę z niezdarnym pomywaczem.",
+    "LenghtInMinutes": 111,
+    "ReleaseYear": 2007,
+    "Rating": 8,
+    "Cast": [
+      "Patton Oswalt",
+      "Lou Romano",
+      "Ian Holm"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=NgsQ8mVkN8w"
+  },
+  {
+    "Id": 70,
+    "CategoryId": 3,
+    "Title": "Carrie",
+    "Description": "Nieśmiała, terroryzowana przez religijną matkę i rówieśników licealistka odkrywa w sobie moce telekinetyczne, co prowadzi do tragicznego finału podczas balu maturalnego.",
+    "LenghtInMinutes": 98,
+    "ReleaseYear": 1976,
+    "Rating": 7,
+    "Cast": [
+      "Sissy Spacek",
+      "Piper Laurie",
+      "Amy Irving"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=j9mg_Q7tMts"
+  },
+  {
+    "Id": 71,
+    "CategoryId": 1,
+    "Title": "Co robimy w ukryciu",
+    "Description": "Mockument śledzący codzienne życie grupy wampirów, którzy jako współlokatorzy próbują odnaleźć się we współczesnym świecie.",
+    "LenghtInMinutes": 86,
+    "ReleaseYear": 2014,
+    "Rating": 7,
+    "Cast": [
+      "Jemaine Clement",
+      "Taika Waititi",
+      "Jonny Brugh"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=IAZEWtyhpes"
+  },
+  {
+    "Id": 72,
+    "CategoryId": 4,
+    "Title": "Joker",
+    "Description": "Wstrząsające studium postaci Arthura Flecka, człowieka zepchniętego na margines społeczeństwa, który powoli przeistacza się w króla przestępczości Gotham.",
+    "LenghtInMinutes": 122,
+    "ReleaseYear": 2019,
+    "Rating": 8,
+    "Cast": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=t433PEQGErc"
+  },
+  {
+    "Id": 73,
+    "CategoryId": 2,
+    "Title": "Piąty element",
+    "Description": "W kolorowej przyszłości taksówkarz Korben Dallas musi ocalić świat przed nadciągającym złem, chroniąc Leeloo - piąty element, istotę doskonałą.",
+    "LenghtInMinutes": 126,
+    "ReleaseYear": 1997,
+    "Rating": 7,
+    "Cast": [
+      "Bruce Willis",
+      "Milla Jovovich",
+      "Gary Oldman"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=fQ9RqgcR2tY"
+  },
+  {
+    "Id": 74,
+    "CategoryId": 5,
+    "Title": "Die Hard (Szklana pułapka)",
+    "Description": "Nowojorski policjant John McClane musi samotnie stawić czoła grupie terrorystów, którzy przejęli wieżowiec podczas świątecznego przyjęcia.",
+    "LenghtInMinutes": 132,
+    "ReleaseYear": 1988,
+    "Rating": 8,
+    "Cast": [
+      "Bruce Willis",
+      "Alan Rickman",
+      "Bonnie Bedelia"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=jaJ_Vf0zD8c"
+  },
+  {
+    "Id": 75,
+    "CategoryId": 7,
+    "Title": "Siedem dusz",
+    "Description": "Mężczyzna dręczony tajemnicą z przeszłości postanawia odmienić życie siedmiu obcych osób.",
+    "LenghtInMinutes": 123,
+    "ReleaseYear": 2008,
+    "Rating": 7,
+    "Cast": [
+      "Will Smith",
+      "Rosario Dawson",
+      "Woody Harrelson"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=Tu1nS-guRk8"
+  },
+  {
+    "Id": 76,
+    "CategoryId": 6,
+    "Title": "Shrek",
+    "Description": "Samotny ogr Shrek wyrusza z gadatliwym osłem na misję ratowania księżniczki Fiony, aby odzyskać spokój na swoim bagnie z rąk złego Lorda Farquaada.",
+    "LenghtInMinutes": 90,
+    "ReleaseYear": 2001,
+    "Rating": 8,
+    "Cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=CwXOr1JdE2E"
+  },
+  {
+    "Id": 77,
+    "CategoryId": 3,
+    "Title": "REC",
+    "Description": "Reporterka telewizyjna i jej operator zostają uwięzieni w budynku objętym kwarantanną, gdzie tajemniczy wirus zamienia mieszkańców w żądne krwi istoty.",
+    "LenghtInMinutes": 78,
+    "ReleaseYear": 2007,
+    "Rating": 7,
+    "Cast": [
+      "Manuela Velasco",
+      "Ferran Terraza",
+      "Jorge-Yamam Serrano"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=Ym-TqOcLh5k"
+  },
+  {
+    "Id": 78,
+    "CategoryId": 1,
+    "Title": "Borat",
+    "Description": "Kazachski reporter telewizyjny Borat Sagdijew wyrusza do Ameryki, aby nakręcić dokument o 'najwspanialszym kraju na świecie' i poślubić Pamelę Anderson.",
+    "LenghtInMinutes": 84,
+    "ReleaseYear": 2006,
+    "Rating": 7,
+    "Cast": [
+      "Sacha Baron Cohen",
+      "Ken Davitian",
+      "Luenell"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=v3-K8E4e9pY"
+  },
+  {
+    "Id": 79,
+    "CategoryId": 4,
+    "Title": "Prestiż",
+    "Description": "Dwóch młodych iluzjonistów rozpoczyna zaciekłą rywalizację, która przeradza się w obsesyjną walkę o stworzenie ostatecznej iluzji, prowadzącą do tragedii.",
+    "LenghtInMinutes": 130,
+    "ReleaseYear": 2006,
+    "Rating": 8,
+    "Cast": [
+      "Hugh Jackman",
+      "Christian Bale",
+      "Michael Caine"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=o4gHCj306Nk"
+  },
+  {
+    "Id": 80,
+    "CategoryId": 2,
+    "Title": "Gattaca - Szok przyszłości",
+    "Description": "W przyszłości, gdzie społeczeństwo dzieli się na genetycznie doskonałych i 'podludzi', mężczyzna o gorszych genach próbuje oszukać system, by spełnić marzenie o locie w kosmos.",
+    "LenghtInMinutes": 106,
+    "ReleaseYear": 1997,
+    "Rating": 7,
+    "Cast": [
+      "Ethan Hawke",
+      "Uma Thurman",
+      "Jude Law"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=BimDi5iSgHk"
+  },
+  {
+    "Id": 81,
+    "CategoryId": 5,
+    "Title": "Bękarty wojny",
+    "Description": "W okupowanej przez nazistów Francji grupa amerykańskich żołnierzy żydowskiego pochodzenia sieje postrach wśród wrogów, a młoda właścicielka kina planuje własną zemstę.",
+    "LenghtInMinutes": 153,
+    "ReleaseYear": 2009,
+    "Rating": 8,
+    "Cast": [
+      "Brad Pitt",
+      "Mélanie Laurent",
+      "Christoph Waltz"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=KnrRy6kSFF0"
+  },
+  {
+    "Id": 82,
+    "CategoryId": 7,
+    "Title": "Tożsamość",
+    "Description": "Dziesięciu nieznajomych zostaje uwięzionych w odciętym od świata motelu podczas burzy. Wkrótce zaczynają ginąć jeden po drugim.",
+    "LenghtInMinutes": 90,
+    "ReleaseYear": 2003,
+    "Rating": 7,
+    "Cast": [
+      "John Cusack",
+      "Ray Liotta",
+      "Amanda Peet"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=S8-Y-p9G0k8"
+  },
+  {
+    "Id": 83,
+    "CategoryId": 6,
+    "Title": "Kraina lodu",
+    "Description": "Księżniczka Anna wyrusza w podróż z handlarzem lodu Kristoffem, jego reniferem Svenem i bałwanem Olafem, aby znaleźć swoją siostrę Elsę, której moce uwięziły królestwo w wiecznej zimie.",
+    "LenghtInMinutes": 102,
+    "ReleaseYear": 2013,
+    "Rating": 7,
+    "Cast": [
+      "Kristen Bell",
+      "Idina Menzel",
+      "Jonathan Groff"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=TbQm5doF_Uc"
+  },
+  {
+    "Id": 84,
+    "CategoryId": 3,
+    "Title": "The Babadook",
+    "Description": "Samotna matka, pogrążona w żałobie po mężu, musi zmierzyć się ze strachem swojego syna przed potworem czającym się w domu. Wkrótce odkrywa, że złowroga obecność jest prawdziwa.",
+    "LenghtInMinutes": 94,
+    "ReleaseYear": 2014,
+    "Rating": 6,
+    "Cast": [
+      "Essie Davis",
+      "Noah Wiseman",
+      "Hayley McElhinney"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=k5A_h0sLCYA"
+  },
+  {
+    "Id": 85,
+    "CategoryId": 1,
+    "Title": "Wysyp żywych trupów",
+    "Description": "Zwykły sprzedawca Shaun postanawia uporządkować swoje życie miłosne i rodzinne, jednocześnie próbując przetrwać epidemię zombie w Londynie.",
+    "LenghtInMinutes": 99,
+    "ReleaseYear": 2004,
+    "Rating": 7,
+    "Cast": [
+      "Simon Pegg",
+      "Nick Frost",
+      "Kate Ashfield"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=LIfcaZ4pC-4"
+  },
+  {
+    "Id": 86,
+    "CategoryId": 4,
+    "Title": "American Beauty",
+    "Description": "Przeżywający kryzys wieku średniego Lester Burnham postanawia radykalnie zmienić swoje życie po tym, jak zakochuje się w koleżance swojej córki.",
+    "LenghtInMinutes": 122,
+    "ReleaseYear": 1999,
+    "Rating": 8,
+    "Cast": [
+      "Kevin Spacey",
+      "Annette Bening",
+      "Thora Birch"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=3ycmmJ6rxA8"
+  },
+  {
+    "Id": 87,
+    "CategoryId": 2,
+    "Title": "Powrót do przyszłości",
+    "Description": "Nastolatek Marty McFly przypadkowo przenosi się w czasie do lat 50. za pomocą wehikułu czasu zbudowanego przez ekscentrycznego naukowca. Musi sprawić, by jego nastoletni rodzice się poznali.",
+    "LenghtInMinutes": 116,
+    "ReleaseYear": 1985,
+    "Rating": 8,
+    "Cast": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=qvsgGtivCgs"
+  },
+  {
+    "Id": 88,
+    "CategoryId": 5,
+    "Title": "Casino Royale",
+    "Description": "Pierwsza misja Jamesa Bonda jako agenta 007. Musi pokonać w pokerze Le Chiffre'a, bankiera terrorystów, aby rozbić jego organizację.",
+    "LenghtInMinutes": 144,
+    "ReleaseYear": 2006,
+    "Rating": 8,
+    "Cast": [
+      "Daniel Craig",
+      "Eva Green",
+      "Mads Mikkelsen"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=36mnx8dBbGE"
+  },
+  {
+    "Id": 89,
+    "CategoryId": 7,
+    "Title": "Infiltracja",
+    "Description": "Policjant z Południowego Bostonu infiltruje szeregi mafii. Jednocześnie jeden z gangsterów przenika do struktur policji. Obaj muszą odkryć swoją tożsamość, zanim zostaną zdemaskowani.",
+    "LenghtInMinutes": 151,
+    "ReleaseYear": 2006,
+    "Rating": 8,
+    "Cast": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=iQ-hMpYhGgQ"
+  },
+  {
+    "Id": 90,
+    "CategoryId": 6,
+    "Title": "Mój sąsiad Totoro",
+    "Description": "Dwie siostry przeprowadzają się z ojcem na wieś, aby być bliżej chorej matki. Odkrywają magiczny świat leśnych duchów, w tym uroczego Totoro.",
+    "LenghtInMinutes": 86,
+    "ReleaseYear": 1988,
+    "Rating": 8,
+    "Cast": [
+      "Hitoshi Takagi",
+      "Noriko Hidaka",
+      "Chika Sakamoto"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=9cti-BbN-Wk"
+  },
+  {
+    "Id": 91,
+    "CategoryId": 3,
+    "Title": "Koszmar z ulicy Wiązów",
+    "Description": "Grupa nastolatków z przedmieścia odkrywa, że ściga ich ten sam demoniczny morderca, Freddy Krueger, który atakuje swoje ofiary we snach.",
+    "LenghtInMinutes": 91,
+    "ReleaseYear": 1984,
+    "Rating": 7,
+    "Cast": [
+      "Heather Langenkamp",
+      "Robert Englund",
+      "Johnny Depp"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=dCVh4lBfW-c"
+  },
+  {
+    "Id": 92,
+    "CategoryId": 1,
+    "Title": "Monty Python i Święty Graal",
+    "Description": "Król Artur i Rycerze Okrągłego Stołu wyruszają na komiczną, niskobudżetową wyprawę w poszukiwaniu Świętego Graala, napotykając absurdalne przeszkody.",
+    "LenghtInMinutes": 91,
+    "ReleaseYear": 1975,
+    "Rating": 8,
+    "Cast": [
+      "Graham Chapman",
+      "John Cleese",
+      "Eric Idle"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=urRkGvhXc8w"
+  },
+  {
+    "Id": 93,
+    "CategoryId": 4,
+    "Title": "Stowarzyszenie Umarłych Poetów",
+    "Description": "Charyzmatyczny nauczyciel angielskiego, John Keating, inspiruje uczniów prestiżowej szkoły dla chłopców do nonkonformizmu i odkrywania pasji.",
+    "LenghtInMinutes": 128,
+    "ReleaseYear": 1989,
+    "Rating": 8,
+    "Cast": [
+      "Robin Williams",
+      "Robert Sean Leonard",
+      "Ethan Hawke"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=4lj185daZ_o"
+  },
+  {
+    "Id": 94,
+    "CategoryId": 2,
+    "Title": "Park Jurajski",
+    "Description": "Podczas przedpremierowej wizyty w parku rozrywki, w którym sklonowano dinozaury, systemy bezpieczeństwa zawodzą, a prehistoryczne gady wydostają się na wolność.",
+    "LenghtInMinutes": 127,
+    "ReleaseYear": 1993,
+    "Rating": 8,
+    "Cast": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=lc0UehYemQA"
+  },
+  {
+    "Id": 95,
+    "CategoryId": 5,
+    "Title": "Siedmiu samurajów",
+    "Description": "Uboga wioska rolników wynajmuje siedmiu bezpańskich samurajów (rōninów), aby obronili ich przed corocznymi atakami bandytów.",
+    "LengLInMinutes": 207,
+    "ReleaseYear": 1954,
+    "Rating": 9,
+    "Cast": [
+      "Toshiro Mifune",
+      "Takashi Shimura",
+      "Keiko Tsushima"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=wJ1T2nRyM3s"
+  },
+  {
+    "Id": 96,
+    "CategoryId": 7,
+    "Title": "Memento",
+    "Description": "Mężczyzna cierpiący na amnezję następczą próbuje wytropić mordercę swojej żony, korzystając ze skomplikowanego systemu notatek i tatuaży.",
+    "LenghtInMinutes": 113,
+    "ReleaseYear": 2000,
+    "Rating": 8,
+    "Cast": [
+      "Guy Pearce",
+      "Carrie-Anne Moss",
+      "Joe Pantoliano"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=0vS0E9bBSL0"
+  },
+  {
+    "Id": 97,
+    "CategoryId": 6,
+    "Title": "W głowie się nie mieści",
+    "Description": "Po przeprowadzce do nowego miasta, emocje młodej Riley - Radość, Smutek, Gniew, Strach i Odraza - próbują pomóc jej odnaleźć się w nowej sytuacji.",
+    "LenghtInMinutes": 95,
+    "ReleaseYear": 2015,
+    "Rating": 8,
+    "Cast": [
+      "Amy Poehler",
+      "Phyllis Smith",
+      "Bill Hader"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=seMwpP0yeu4"
+  },
+  {
+    "Id": 98,
+    "CategoryId": 3,
+    "Title": "Milczenie",
+    "Description": "Głuchoniema pisarka, która żyje samotnie w lesie, musi walczyć o przetrwanie, gdy staje się celem zamaskowanego psychopaty.",
+    "LenghtInMinutes": 82,
+    "ReleaseYear": 2016,
+    "Rating": 6,
+    "Cast": [
+      "Kate Siegel",
+      "John Gallagher Jr.",
+      "Michael Trucco"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=Q_P8WC-OqN0"
+  },
+  {
+    "Id": 99,
+    "CategoryId": 1,
+    "Title": "Deadpool",
+    "Description": "Były agent sił specjalnych, poddany eksperymentowi, który dał mu zdolności regeneracyjne, jako cyniczny antybohater Deadpool poluje na człowieka, który zniszczył mu życie.",
+    "LenghtInMinutes": 108,
+    "ReleaseYear": 2016,
+    "Rating": 8,
+    "Cast": [
+      "Ryan Reynolds",
+      "Morena Baccarin",
+      "Ed Skrein"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=9vN6DHB6bJc"
+  },
+  {
+    "Id": 100,
+    "CategoryId": 4,
+    "Title": "Zjawa",
+    "Description": "Traper Hugh Glass zostaje brutalnie zaatakowany przez niedźwiedzia i pozostawiony na śmierć przez towarzyszy. Musi przetrwać w surowej dziczy, kierowany żądzą zemsty.",
+    "LenghtInMinutes": 156,
+    "ReleaseYear": 2015,
+    "Rating": 8,
+    "Cast": [
+      "Leonardo DiCaprio",
+      "Tom Hardy",
+      "Domhnall Gleeson"
+    ],
+    "PosterUrl": "https://placehold.co/400x600",
+    "TrailerUrl": "https://www.youtube.com/watch?v=Lo4Hpr89zw4"
+  }
+]

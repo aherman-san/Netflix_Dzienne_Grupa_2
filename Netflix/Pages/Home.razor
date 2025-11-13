@@ -1,0 +1,34 @@
+﻿@page "/"
+@inject MovieService MovieService
+
+<h2>Netflix - Grupa 2</h2>
+<br />
+
+@if (movies is not null)
+{
+    @foreach (var movie in movies)
+    {
+        <div>
+            <img src="@movie.PosterUrl" alt="@movie.Id.ToString()"/>
+            <h6>@movie.Title</h6>
+        </div>
+    }
+}
+else
+{
+    <p>Pobieram filmy ...</p>
+}
+
+
+
+
+@code {
+
+    List<MovieMiniDto>? movies;
+
+    protected override async Task OnInitializedAsync()
+    {
+        movies = await MovieService.GetRandomMoviesOnMainPage();
+    }
+
+}
